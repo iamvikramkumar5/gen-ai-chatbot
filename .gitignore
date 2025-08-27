@@ -1,0 +1,4 @@
+# Ignore all files except those related to the chat service
+chat/
+.env
+__pycache__/
